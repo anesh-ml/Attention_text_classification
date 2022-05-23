@@ -1,6 +1,10 @@
 # Attention_text_classification
 Interpreting the outputs of LSTM/GRU for the text classification task using modified bahdanau attention mechanism
 
+**What does this project solve**
+
+If datascientists want to build an interpretable text classification model, they can use this model because it has inherent interpretation capabilities.
+
 **Notebook**:
 https://nbviewer.org/github/anesh-ml/Attention_text_classification/blob/main/Attention_classification_GRU.ipynb
 
